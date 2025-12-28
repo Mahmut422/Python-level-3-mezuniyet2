@@ -1,0 +1,36 @@
+{
+  "Pazartesi": [
+    {
+      "saat": "10:00",
+      "ders": "Matematik",
+      "egitmen": "Ahmet Hoca"
+    },
+    {
+      "saat": "14:00",
+      "ders": "Fizik",
+      "egitmen": "Zeynep Hoca"
+    }
+  ],
+  "Salı": [
+    {
+      "saat": "11:00",
+      "ders": "Kimya",
+      "egitmen": "Mehmet Hoca"
+    }
+  ],
+  "Çarşamba": [],
+  "Perşembe": [
+    {
+      "saat": "13:00",
+      "ders": "Biyoloji",
+      "egitmen": "Elif Hoca"
+    }
+  ],
+  "Cuma": [
+    {
+      "saat": "15:00",
+      "ders": "İngilizce",
+      "egitmen": "Sarah Teacher"
+    }
+  ]
+}

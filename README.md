@@ -3,3 +3,5 @@
 -ilk projem
 
 NOT:Bu proje tam çalışmıyor olabilir.
+
+GÜNCEL NOT:Proje çalışıyor
